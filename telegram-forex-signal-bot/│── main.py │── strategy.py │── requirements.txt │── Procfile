@@ -1,0 +1,5 @@
+telegram-forex-signal-bot/
+│── main.py
+│── strategy.py
+│── requirements.txt
+│── Procfile
